@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sjvadrevu
-- 💞️ I’m interested in exploring the role GenAI for multi player asyncornous collaboration applications
-- 📫 How to reach me: Leave a message
+- 👋 Hi, I am Shashank, a PM at Microsoft. I set the vision and roadmap for agents in Microsoft Teams, delivered across a cross-team group of PMs.
+- 🛠️ What I build in my own time:
+  - [The Median Canadian](https://mediancanadian.ca): Canada explained through numbers, every week. Each story is an [open repo](https://github.com/mediancanadian) with its data, analysis code and methodology, so anyone can fact-check or explore it.
+  - AI Brief: a multi-agent pipeline on the Claude API that writes a daily AI brief. It is private for now; [here is a sample](https://sjvadrevu.github.io/ai-brief/) of past issues. Subscribe coming soon.
+  - [Todoist MCP Server](https://github.com/sjvadrevu/todoist-mcp-server): a remote MCP server on Azure that connects Claude to Todoist on web, Claude Code and mobile.
+- 📈 Started my career in operations as a Six Sigma Black Belt.
+- 💞️ Interested in applying AI to how businesses actually run: redesigning end-to-end processes with agents, and the platforms, evals and governance that let them scale safely.
+- 📫 How to reach me: [sjvadrevu.github.io](https://sjvadrevu.github.io) or [LinkedIn](https://www.linkedin.com/in/jagannath-shashank-vadrevu/)
 - 😄 Pronouns: He / Him
-
-<!---
-sjvadrevu/sjvadrevu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
