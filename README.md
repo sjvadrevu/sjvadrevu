@@ -1,7 +1,7 @@
 - 👋 Hi, I am Shashank, a PM at Microsoft. I set the vision and roadmap for agents in Microsoft Teams, delivered across a cross-team group of PMs.
 - 🛠️ What I build in my own time:
   - [The Median Canadian](https://mediancanadian.ca): Canada explained through numbers, every week. Each story is an [open repo](https://github.com/mediancanadian) with its data, analysis code and methodology, so anyone can fact-check or explore it.
-  - [AI Brief](https://ai.mediancanadian.ca/): a daily briefing for people building AI agents, written by a multi-agent pipeline, with a full archive and a monthly Trends page of what is rising and what is fading.
+  - [AI Brief](https://ai.mediancanadian.ca/): what moved in AI yesterday, and what it means for your product. Written by a multi-agent pipeline, with a full archive and a monthly Trends page of what is rising and what is fading.
   - [Todoist MCP Server](https://github.com/sjvadrevu/todoist-mcp-server): a remote MCP server on Azure that connects Claude to Todoist on web, Claude Code and mobile.
 - 📈 Started my career in operations as a Six Sigma Black Belt.
 - 💞️ Interested in applying AI to how businesses actually run: redesigning end-to-end processes with agents, and the platforms, evals and governance that let them scale safely.
